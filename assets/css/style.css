@@ -1,0 +1,25 @@
+
+
+.logo {
+	max-height: 4em;
+	padding: 0.5em;
+}
+
+div.cabecalho {
+	padding: 0px;
+}
+
+
+.navbar-toggler-icon{
+	margin: 0.5em;
+}
+
+nav.navbar {
+	text-align: center;
+}
+
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 1em;
+    padding-left: 1em;
+}
